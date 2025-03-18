@@ -1,0 +1,30 @@
+Atividade 01
+
+Versão 0.1[25022025]----------------------------------
+- Criação dos diferentes formulários.
+- Aplicação de nomenclaturas nos objetos dos fomulários
+------------------------------------------------------
+Versão 0.2[25022025]----------------------------------
+- Navegação entre fomulários
+- Programação de botões de saída
+------------------------------------------------------
+Versão 0.3[27022025]----------------------------------
++ Formulário Inserir:
+- Esvaziar caixas de texto no carregamento do formulário;
+- Programação de botão de limpeza das caixas de texto.  
+- Gravar em ficheiro .txt
+------------------------------------------------------
+Versão 0.4[27022025]----------------------------------
++ Formulário Consultar:
+- Programação de botão consultar de forma a carregar 
+dados de teste;
+- Programação de botão limpar de forma a limpar os 
+dados de teste.
+------------------------------------------------------
+Versão 0.5[04032025]----------------------------------
++ Formulário Consultar:
+- Programação da caixa de combinação(combobox) para receber
+os dados.
++ Carro_Class:
+- Programação de metodo para obter os dados dos ficheiro.
+------------------------------------------------------
