@@ -1,4 +1,4 @@
-# Projeto Java - Gestão de Carros 🚗✨
+# Projeto Java - Gestão de Carros 
 
 Este é um projeto Java desenvolvido utilizando a IDE NetBeans como parte de um trabalho escolar. O objetivo do projeto é gerenciar informações relacionadas a carros, com funcionalidades intuitivas para testar, consultar e inserir dados.
 
